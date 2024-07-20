@@ -1,5 +1,5 @@
 # Windows
-Scripts/Tricks ETC (free)
+
 Compress_folder is a python command that's triggered by running the .bat
 Purpose: Compresses maximum that chatgpt can still open.
 
