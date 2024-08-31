@@ -1,3 +1,5 @@
+#LICENSE https://github.com/HyperSane/Game-Master-License/blob/main/LICENSE.md#HyperSane-AARPG-License-Agreement
+
 # Windows
 Scripts/Tricks ETC (free)
 
